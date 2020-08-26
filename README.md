@@ -1,4 +1,4 @@
-# new_cal
+# Simple Calculator
 
 A new Flutter project.
 
